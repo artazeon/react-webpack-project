@@ -1,3 +1,4 @@
+import { hot } from 'react-hot-loader/root';
 import React from 'react';
 import Title from './title';
 
@@ -11,4 +12,4 @@ function App() {
   );
 }
 
-export default App;
+export default hot(App);
