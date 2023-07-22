@@ -2,7 +2,7 @@ import 'react-hot-loader';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-const title = 'React с Webpack и Babel !!!!!!!';
+const title = 'React с Webpack и Babel !';
 
 import App from './app'; 
 
