@@ -1,6 +1,16 @@
+// {
+//   "parser": "@babel/eslint-parser",
+//   "extends": [],
+//   "env": {
+//     "browser": true
+//   }
+// }
+
+
 {
-  "parser": "@babel/eslint-parser",
+  "parser": "babel-eslint",
+  "extends": ["airbnb"],
   "rules": {
-    "max-len": [1, 70, 4, {"ignoreComments": true}]
+    "no-unused-vars": 0
   }
-}
+} 
