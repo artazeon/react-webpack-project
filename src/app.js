@@ -4,7 +4,7 @@ import Title from './title';
 import DangerText from './dangerText';
 import MyImage from './assets/images/dog.jpg';
 
-const title = 'React with Webpack and Babel';
+const title = 'React with Webpack and Babel !';
 
 function App() {
   return (
